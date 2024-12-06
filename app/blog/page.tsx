@@ -35,7 +35,7 @@ const GridWithSidebar = () => {
                   
                   
                 }}className="main-title fw-500 tx-dark">
-                  Latest Blogs
+                  Latest Blogs in KOgenie
                 </h2>
               </div>
             </div>
