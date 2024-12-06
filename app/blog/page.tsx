@@ -32,10 +32,11 @@ const GridWithSidebar = () => {
                 
                 <h2 style={{textAlign:'center',
                   justifyContent:'center',
+                  fontStyle:'oblique'
                   
                   
                 }}className="main-title fw-500 tx-dark">
-                  Latest Blogs in KOgenie for You to View 
+                  Latest Blogs 
                 </h2>
               </div>
             </div>
